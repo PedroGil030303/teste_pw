@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry>
+  <actors>
+    <actor>
+      <name>Leonardo DiCaprio</name>
+      <dateOfBirth>1974-11-11</dateOfBirth>
+      <movies>
+        <movie>Inception</movie>
+        <movie>The Wolf of Wall Street</movie>
+        <movie>Titanic</movie>
+      </movies>
+    </actor>
+    <actor>
+      <name>Kate Winslet</name>
+      <dateOfBirth>1975-10-05</dateOfBirth>
+      <movies>
+        <movie>Titanic</movie>
+        <movie>The Reader</movie>
+        <movie>Revolutionary Road</movie>
+      </movies>
+    </actor>
+  </actors>
+  <movies>
+    <movie>
+      <title>Inception</title>
+      <releaseYear>2010</releaseYear>
+      <actors>
+        <actor>Leonardo DiCaprio</actor>
+        <actor>Joseph Gordon-Levitt</actor>
+        <actor>Ellen Page</actor>
+      </actors>
+    </movie>
+    <movie>
+      <title>Titanic</title>
+      <releaseYear>1997</releaseYear>
+      <actors>
+        <actor>Leonardo DiCaprio</actor>
+        <actor>Kate Winslet</actor>
+        <actor>Billy Zane</actor>
+      </actors>
+    </movie>
+  </movies>
+</registry>

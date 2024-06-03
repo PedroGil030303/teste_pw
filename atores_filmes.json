@@ -1,0 +1,43 @@
+{
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "dateOfBirth": "1974-11-11",
+        "movies": [
+          "Inception",
+          "The Wolf of Wall Street",
+          "Titanic"
+        ]
+      },
+      {
+        "name": "Kate Winslet",
+        "dateOfBirth": "1975-10-05",
+        "movies": [
+          "Titanic",
+          "The Reader",
+          "Revolutionary Road"
+        ]
+      }
+    ],
+    "movies": [
+      {
+        "title": "Inception",
+        "releaseYear": 2010,
+        "actors": [
+          "Leonardo DiCaprio",
+          "Joseph Gordon-Levitt",
+          "Ellen Page"
+        ]
+      },
+      {
+        "title": "Titanic",
+        "releaseYear": 1997,
+        "actors": [
+          "Leonardo DiCaprio",
+          "Kate Winslet",
+          "Billy Zane"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo getElementsByTagName</title>
+</head>
+<body>
+    <p>paragrafo 1</p>
+    <p>paragrafo 2</p>
+    <p>paragrafo 3</p>
+    <script>
+        var paragraphElements = document.getElementsByTagName("p");
+        console.log(paragraphElements); // Exibe uma coleção de todos os elementos <p>
+
+        for (var i = 0; i < paragraphElements.length; i++) {
+            paragraphElements[i].style.color = "red";
+        }
+    </script>
+</body>
+</html>
